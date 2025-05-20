@@ -33,5 +33,3 @@ Run cleaned_notebook.ipynb to preprocess data, train LSTM/Naïve Bayes models, a
 Results
 Naïve Bayes: 92.86% accuracy, F1 score 0.9286.
 LSTM: See notebook for validation metrics.
-License
-MIT License (see LICENSE file).
